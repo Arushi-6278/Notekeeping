@@ -7,7 +7,7 @@ function Header() {
   
       <h1>
       <AutoStoriesIcon/>
-      Keeper
+      NoteKeeper
       </h1>
     </header>
   );
